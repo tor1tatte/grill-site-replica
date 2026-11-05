@@ -1,0 +1,9 @@
+leads.jsonl
+site/
+node_modules/
+.DS_Store
+# screenshots of the original site and diffs derived from them: reference only, never published
+replica/screens/
+replica/diffs/
+# regenerable with: node tests/shots.mjs
+replica/clone-screens/

@@ -1,0 +1,297 @@
+{
+  "_about": "Stock photos (free licences: Unsplash License / Pexels License). Files live in src/photos/<key>-640|1200|1600.jpg. 'fixed' pins a seed from content.json to one photo; 'pools' hand photos out in order to seeds with that prefix (st1, st2 ... -> pool 'st'). Delete this file to fall back to the generated illustrations.",
+  "photos": {
+    "u-OsUiWBJ4AXU": {
+      "w": 1600,
+      "h": 2000,
+      "source": "Unsplash",
+      "author": "Alef Morais",
+      "author_url": "https://unsplash.com/@alef_visuals",
+      "page": "https://unsplash.com/photos/OsUiWBJ4AXU",
+      "alt": "Уличная кухня с барной стойкой под навесом с тёплой подсветкой"
+    },
+    "u-aUsRyb_gPTI": {
+      "w": 1600,
+      "h": 2000,
+      "source": "Unsplash",
+      "author": "Alef Morais",
+      "author_url": "https://unsplash.com/@alef_visuals",
+      "page": "https://unsplash.com/photos/aUsRyb_gPTI",
+      "alt": "Островная уличная кухня с барными стульями под навесом"
+    },
+    "u-YTnLXCH0jWw": {
+      "w": 1600,
+      "h": 900,
+      "source": "Unsplash",
+      "author": "Alef Morais",
+      "author_url": "https://unsplash.com/@alef_visuals",
+      "page": "https://unsplash.com/photos/YTnLXCH0jWw",
+      "alt": "Уличная кухня с газовой варочной панелью и бассейном"
+    },
+    "u-baap3vgDMcU": {
+      "w": 1600,
+      "h": 2000,
+      "source": "Unsplash",
+      "author": "Alef Morais",
+      "author_url": "https://unsplash.com/@alef_visuals",
+      "page": "https://unsplash.com/photos/baap3vgDMcU",
+      "alt": "Зона отдыха с большим деревянным столом на уличной кухне"
+    },
+    "u-GimvAIWWmlI": {
+      "w": 1600,
+      "h": 2133,
+      "source": "Unsplash",
+      "author": "Jubéo Hernandez",
+      "author_url": "https://unsplash.com/@youbeyo",
+      "page": "https://unsplash.com/photos/GimvAIWWmlI",
+      "alt": "Белая уличная кухня с барной стойкой под навесом"
+    },
+    "u-1pL7kM4YD2E": {
+      "w": 1600,
+      "h": 1067,
+      "source": "Unsplash",
+      "author": "Salvo Media LLC",
+      "author_url": "https://unsplash.com/@salvomedia",
+      "page": "https://unsplash.com/photos/1pL7kM4YD2E",
+      "alt": "Современное патио со встроенной кухней и вытяжкой"
+    },
+    "u-AhLzIPJqI-8": {
+      "w": 1600,
+      "h": 1067,
+      "source": "Unsplash",
+      "author": "Salvo Media LLC",
+      "author_url": "https://unsplash.com/@salvomedia",
+      "page": "https://unsplash.com/photos/AhLzIPJqI-8",
+      "alt": "Патио с бассейном и встроенной уличной кухней"
+    },
+    "u-csK5XPO87lI": {
+      "w": 1600,
+      "h": 1068,
+      "source": "Unsplash",
+      "author": "Randy Fath",
+      "author_url": "https://unsplash.com/@randyfath",
+      "page": "https://unsplash.com/photos/csK5XPO87lI",
+      "alt": "Деревянная беседка с подсветкой гирляндами"
+    },
+    "u-7BVtKabDMgg": {
+      "w": 1600,
+      "h": 1067,
+      "source": "Unsplash",
+      "author": "Niko Nieminen",
+      "author_url": "https://unsplash.com/@n1en1k",
+      "page": "https://unsplash.com/photos/7BVtKabDMgg",
+      "alt": "Угольный гриль-смокер на деревянной террасе"
+    },
+    "u-_iqtG29jKvQ": {
+      "w": 1600,
+      "h": 1067,
+      "source": "Unsplash",
+      "author": "little plant",
+      "author_url": "https://unsplash.com/@little_plant",
+      "page": "https://unsplash.com/photos/_iqtG29jKvQ",
+      "alt": "Угольный гриль на уличном столе среди зелени"
+    },
+    "p-13871253": {
+      "w": 1600,
+      "h": 1067,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/13871253/",
+      "alt": "Беседка с очагом, скамьями и подсветкой вечером"
+    },
+    "p-14771985": {
+      "w": 1600,
+      "h": 2133,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/14771985/",
+      "alt": "Костёр в чаше-мангале на траве"
+    },
+    "p-1610997": {
+      "w": 1600,
+      "h": 1067,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/1610997/",
+      "alt": "Овощи и грибы на круглом угольном гриле"
+    },
+    "p-19113492": {
+      "w": 1600,
+      "h": 1067,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/19113492/",
+      "alt": "Огонь в чугунной чаше на лужайке"
+    },
+    "p-4825742": {
+      "w": 1600,
+      "h": 2400,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/4825742/",
+      "alt": "Огонь в чёрной чаше-очаге и закуска рядом"
+    },
+    "p-28399179": {
+      "w": 1600,
+      "h": 2842,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/28399179/",
+      "alt": "Мангал с открытым огнём и кастрюлей в саду"
+    },
+    "p-7893772": {
+      "w": 1600,
+      "h": 2397,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/7893772/",
+      "alt": "Открытый гриль на улице"
+    },
+    "p-8112664": {
+      "w": 1600,
+      "h": 2400,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/8112664/",
+      "alt": "Металлическая купель на берегу озера"
+    },
+    "p-30777517": {
+      "w": 1600,
+      "h": 2399,
+      "source": "Pexels",
+      "author": "",
+      "author_url": "",
+      "page": "https://www.pexels.com/photo/30777517/",
+      "alt": "Джакузи на фоне гор и облаков"
+    }
+  },
+  "fixed": {
+    "hero-home": "u-OsUiWBJ4AXU",
+    "hero-station": "u-1pL7kM4YD2E",
+    "hero-zone": "u-GimvAIWWmlI",
+    "hero-portable": "p-7893772",
+    "hero-kitchen": "u-YTnLXCH0jWw",
+    "hero-tub": "p-8112664",
+    "sc-station": "u-aUsRyb_gPTI",
+    "sc-zone": "u-baap3vgDMcU",
+    "sc-portable": "p-28399179",
+    "sc-kitchen": "u-YTnLXCH0jWw",
+    "sc-tub": "p-30777517"
+  },
+  "pools": {
+    "st": [
+      "u-OsUiWBJ4AXU",
+      "u-aUsRyb_gPTI",
+      "u-1pL7kM4YD2E",
+      "u-YTnLXCH0jWw",
+      "u-GimvAIWWmlI",
+      "u-AhLzIPJqI-8",
+      "u-baap3vgDMcU",
+      "u-csK5XPO87lI"
+    ],
+    "z": [
+      "u-7BVtKabDMgg",
+      "u-_iqtG29jKvQ",
+      "p-28399179",
+      "p-1610997",
+      "p-7893772",
+      "p-13871253",
+      "u-GimvAIWWmlI",
+      "p-4825742"
+    ],
+    "m": [
+      "p-7893772",
+      "u-_iqtG29jKvQ",
+      "p-1610997",
+      "u-7BVtKabDMgg",
+      "p-28399179",
+      "p-4825742",
+      "p-13871253"
+    ],
+    "p": [
+      "p-28399179",
+      "p-7893772",
+      "p-1610997",
+      "p-4825742",
+      "u-7BVtKabDMgg",
+      "u-_iqtG29jKvQ",
+      "p-19113492",
+      "p-14771985"
+    ],
+    "k": [
+      "u-YTnLXCH0jWw",
+      "u-OsUiWBJ4AXU",
+      "u-aUsRyb_gPTI",
+      "u-baap3vgDMcU",
+      "u-GimvAIWWmlI",
+      "u-1pL7kM4YD2E",
+      "u-AhLzIPJqI-8",
+      "u-csK5XPO87lI"
+    ],
+    "g": [
+      "u-aUsRyb_gPTI",
+      "p-28399179",
+      "u-OsUiWBJ4AXU",
+      "p-13871253",
+      "u-1pL7kM4YD2E",
+      "p-1610997",
+      "u-YTnLXCH0jWw",
+      "u-GimvAIWWmlI",
+      "u-7BVtKabDMgg",
+      "p-30777517",
+      "u-baap3vgDMcU",
+      "p-14771985",
+      "u-csK5XPO87lI",
+      "p-8112664"
+    ],
+    "pf": [
+      "u-OsUiWBJ4AXU",
+      "u-YTnLXCH0jWw",
+      "u-csK5XPO87lI",
+      "u-aUsRyb_gPTI",
+      "u-baap3vgDMcU",
+      "u-1pL7kM4YD2E",
+      "u-GimvAIWWmlI",
+      "u-AhLzIPJqI-8",
+      "u-7BVtKabDMgg",
+      "p-13871253",
+      "p-28399179",
+      "p-8112664"
+    ],
+    "v": [
+      "u-aUsRyb_gPTI",
+      "u-OsUiWBJ4AXU",
+      "p-28399179",
+      "u-YTnLXCH0jWw",
+      "u-csK5XPO87lI",
+      "u-1pL7kM4YD2E",
+      "u-GimvAIWWmlI",
+      "u-_iqtG29jKvQ",
+      "p-13871253"
+    ],
+    "t@0": [
+      "p-14771985",
+      "p-19113492",
+      "p-13871253",
+      "u-7BVtKabDMgg",
+      "p-8112664",
+      "p-30777517"
+    ],
+    "t@1": [
+      "p-19113492",
+      "p-14771985",
+      "p-4825742",
+      "u-csK5XPO87lI",
+      "p-30777517",
+      "p-8112664"
+    ]
+  }
+}

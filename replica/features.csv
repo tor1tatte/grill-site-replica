@@ -1,0 +1,39 @@
+feature,area,priority,original,clone,notes
+Sticky black header with logo and nav,shell,must,yes,yes,burger menu on mobile
+Models dropdown with 5 category links,shell,must,yes,yes,
+Header phone + e-mail + social icons,shell,must,yes,partial,built; contact data are placeholders
+Footer: contacts / two sites / legal line / hours,shell,must,yes,yes,
+Side dock: Telegram / VK / call / scroll-to-top,shell,should,yes,yes,collapsible
+Home hero with CTA and 4 trust badges,home,must,yes,yes,
+About block with 3 stat tiles,home,must,yes,yes,numbers are placeholders
+Gallery mosaic (photo + video tiles) with lightbox,home,should,yes,yes,
+Models showcase banners (5) linking to categories,home,must,yes,yes,
+Download catalogue form (e-mail + phone),home,should,yes,partial,form + e-mail validation + stored lead work; no catalogue file is actually sent (no PDF exists yet)
+Not-sure callback CTA,home,must,yes,yes,
+Process: 5 steps How we work,home,must,yes,yes,
+Team / masters block,home,could,yes,partial,built with placeholder names and an icon avatar
+Expert consultation form,home,must,yes,yes,
+Category page hero banner,catalog,should,yes,yes,
+Product card: title with red accent,catalog,must,yes,yes,
+Product card: image slider + thumbnails,catalog,must,yes,yes,
+Product card: 3 spec accordions,catalog,must,yes,yes,
+Product card: dimensions / colour list,catalog,must,yes,yes,
+Price in rubles with thin-space grouping,catalog,must,yes,yes,
+Order button opens lead modal with product prefilled,catalog,must,yes,yes,
+Grill stations page (6 items),catalog,must,yes,yes,
+Grill zones page (4 complexes + 7 modules),catalog,must,yes,yes,
+Portable grills page (4 items),catalog,must,yes,yes,
+Steel kitchens page (kitchens + bars),catalog,must,yes,yes,
+Hearths / grill table / tubs page,catalog,must,yes,yes,
+Portfolio grid with spec line and price,portfolio,must,yes,yes,
+Video blog list (9) with modal player,blog,should,yes,partial,player works for YouTube/Vimeo/Rutube/VK embed URLs; no URLs set yet (shows a note)
+Partners page: terms + numbered steps,partners,should,yes,yes,
+Contacts page: factory + showroom,contacts,must,yes,yes,
+Lead modal: name / phone / consent / validation,leads,must,yes,yes,
+Lead delivery to e-mail or Telegram,leads,must,yes,partial,server.py stores leads to leads.jsonl; forwarding to e-mail/Telegram/CRM not wired (needs your credentials)
+Legal pages (privacy + consent),legal,must,yes,partial,pages exist but text is a template stub: a lawyer must replace it
+sitemap.xml + robots.txt + meta + Open Graph,seo,should,yes,yes,
+Responsive 360-1440,quality,must,yes,yes,verified at 390 and 1440 (no horizontal overflow on 11 pages); 360 and tablets not separately tested
+Real photos and video,content,skip,yes,no,"not cloneable: owned by the company. Replaced with licensed stock photos (Unsplash/Pexels), see CREDITS.md; swap for your own"
+Brand name / logo / product names,content,skip,yes,no,not cloneable: replaced in replica-brand
+Their CRM and lead inbox,backend,skip,yes,no,private
